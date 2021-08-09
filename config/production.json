@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://elia:refael052@juniors.8t90u.mongodb.net/juniors?retryWrites=true&w=majority",
+    "jwt_secret": "mysecretforjsonwebtoken",
+    "gh_client_id": "5f4d00c69dbc2b5805a0",
+    "gh_secret": "9a7a422ced6a5816471a45cc6f9f3def50268088"
+}
